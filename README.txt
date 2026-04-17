@@ -93,13 +93,13 @@ Feel free to check the [issues page](https://github.com/probal2004/Personal-Expe
 
 ## 📄 License
 
-Distributed under the **MIT License**. See `LICENSE` file for more information.
+Distributed under the **Apache License**. See `LICENSE` file for more information.
 
 ## 👨‍💻 Author
 
-**Your Name**  
-- GitHub: Probal Dhali (https://github.com/probal2004)  
-- Project Link: [https://github.com/probal2004/Personal-Expense-Tracker]
+**Probal Dhali**  
+- GitHub: Probal Dhali (https://github.com/probal2005)  
+- Project Link: [https://github.com/probal2005/Personal-Expense-Tracker]
 
 ## 🙏 Acknowledgements
 
